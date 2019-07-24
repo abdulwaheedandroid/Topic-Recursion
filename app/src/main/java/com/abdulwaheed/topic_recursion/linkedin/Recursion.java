@@ -12,6 +12,8 @@ public class Recursion {
         System.out.println(numbers[0] + " ");
     }
 
+
+
     private static int factorial(int b) {
         if (b ==1)
             return 1;
